@@ -58,7 +58,6 @@ Open your browser and navigate to `http://localhost:9000/`.
 - 🔹 Emoji support
 - 🔹 File sharing (images, documents)
 - 🔹 User authentication and authorization
--
 
 ## 📜 License
 
