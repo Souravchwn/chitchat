@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: chitchat
+server:
+  port: 9000
+
